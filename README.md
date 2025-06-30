@@ -99,8 +99,8 @@ enhance inventory management, and increase overall profitability through strateg
 ---
 
 ## Repository Structure
-BrightLight_Coffee_Analysis_Presentation.pptx
-Coffee_SQL_Analysis
-Coffee_Shop_Analysis - Miro.pdf
-Coffee_Shop_visualization.csv
-README.md
+--BrightLight_Coffee_Analysis_Presentation.pptx
+--Coffee_SQL_Analysis
+--Coffee_Shop_Analysis - Miro.pdf
+--Coffee_Shop_visualization.csv
+--README.md
